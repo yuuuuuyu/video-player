@@ -1,0 +1,19 @@
+{
+    "name": "@beeboat/packsgeName",
+    "version": "0.0.1",
+    "scripts": {
+        "dev": "vite --host",
+        "build": "vite build",
+        "preview": "vite preview --host"
+    },
+    "homepage": "https://yuuuuuyu.github.io/axios/",
+    "dependencies": {
+        "element-plus": "^2.7.6",
+        "vue": "^3.4.31"
+    },
+    "devDependencies": {
+        "@element-plus/icons-vue": "^2.0.6",
+        "@vitejs/plugin-vue": "2.3.3",
+        "vite": "^3.0.2"
+    }
+}
